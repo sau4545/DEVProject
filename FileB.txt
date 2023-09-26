@@ -1,1 +1,2 @@
 This is File Version B
+This is initial update version of File B
