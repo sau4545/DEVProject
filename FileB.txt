@@ -1,2 +1,3 @@
 This is File Version B
 This is initial update version of File B
+We are going to perform squash merge for FIle versiob B
